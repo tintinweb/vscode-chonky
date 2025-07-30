@@ -1,0 +1,37 @@
+Chonky Proprietary License
+
+Copyright (c) 2025 tintinweb. All rights reserved.
+
+This software and associated documentation files (the "Software") are proprietary 
+and confidential to tintinweb. This license grants you limited rights to use the 
+Software under the following terms:
+
+PERMITTED USES:
+- Personal evaluation and testing
+- Educational purposes and academic research
+- Security research and code review
+- Use within VS Code for auditing smart contracts
+
+PROHIBITED USES:
+- Commercial use without explicit written permission
+- Distribution, redistribution, or sharing of the Software
+- Creating derivative works or modifications
+- Reverse engineering, decompiling, or disassembling
+- Use in production environments without a commercial license
+- Hosting or providing the Software as a service
+- Removing or modifying copyright notices
+
+RESTRICTIONS:
+- The Software is provided "AS IS" without warranty of any kind
+- No support or maintenance is guaranteed under this license
+- This license does not grant any rights to trademarks or service marks
+- Violation of these terms will result in immediate termination of this license
+
+COMMERCIAL LICENSING:
+For commercial use, enterprise licensing, or any use not explicitly permitted above,
+contact tintinweb for a separate commercial license agreement.
+
+By using this Software, you acknowledge that you have read, understood, and agree
+to be bound by the terms of this license.
+
+For licensing inquiries, contact: @tintinweb
