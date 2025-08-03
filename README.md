@@ -6,9 +6,8 @@
 
 **Your AI-Powered Smart Contract Auditing Assistant**
 
-[![Version](https://img.shields.io/badge/version-0.6.0-blue.svg)](https://github.com/tintinweb/vscode-chonky)
+[![Version](https://img.shields.io/badge/version-0.6.2-blue.svg)](https://github.com/tintinweb/vscode-chonky)
 [![License](https://img.shields.io/badge/license-Proprietary-orange.svg)](LICENSE)
-[![Sponsors](https://img.shields.io/github/sponsors/tintinweb?color=red&logo=github)](https://github.com/sponsors/tintinweb)
 
 [![Sponsor](https://img.shields.io/badge/♥️-Sponsor-red?style=for-the-badge&logo=github)](https://github.com/sponsors/tintinweb)
 
@@ -116,70 +115,72 @@ Get access to our curated list of Solidity security primers to augment and autom
 
 ## 🛠️ Feature Catalog
 
-### 🆓 Base Features (16 tools)
+### 🆓 Base Features (20 tools)
 *Available to everyone*
 
 | Feature | Description |
 |---------|-------------|
-| ✅ **Chonky Chat Participant** | AI-powered **@chonky** chat participant for intelligent assistance |
-| ✅ **Solidity Metrics & Scoping** | Comprehensive project analysis and scoping reports |
-| ✅ **Contract Structure Analysis** | Deep dive into contract architecture and patterns |
-| ✅ **Inheritance Tree Analysis** | Visualize and analyze inheritance relationships |
-| ✅ **Contract Flattening** | Flatten complex contract hierarchies |
-| ✅ **Access Control Analysis** | Identify permission patterns and vulnerabilities |
-| ✅ **Storage Layout Analysis** | Optimize storage packing and layout |
-| ✅ **Deployable Contract Discovery** | Find contracts ready for deployment |
-| ✅ **Import Dependency Analysis** | Map external dependencies and risks |
-| ✅ **Surya Visualization Suite** | Generate graphs and visual contract analysis |
-| ✅ **Solhint Code Quality** | Automated code quality and style checks |
-| ✅ **JSON Processing Tools** | Advanced JSON parsing and analysis |
-| ✅ **DateTime Utilities** | Timestamp and date manipulation tools |
-| ✅ **Memory Store** | Persistent data storage across sessions |
-| ✅ **Available Tools Discovery** | Explore all available Chonky capabilities |
-| ✅ **Workspace File Search** | Intelligent file discovery and search |
+| 🔹 **Chonky Chat Participant** | AI-powered **@chonky** chat participant for intelligent assistance |
+| 🔹 **Solidity Metrics & Scoping** | Comprehensive project analysis and scoping reports |
+| 🔹 **Contract Structure Analysis** | Deep dive into contract architecture and patterns |
+| 🔹 **Inheritance Tree Analysis** | Visualize and analyze inheritance relationships |
+| 🔹 **Contract Flattening** | Flatten complex contract hierarchies |
+| 🔹 **Access Control Analysis** | Identify permission patterns and vulnerabilities |
+| 🔹 **Storage Layout Analysis** | Optimize storage packing and layout |
+| 🔹 **Deployable Contract Discovery** | Find contracts ready for deployment |
+| 🔹 **Import Dependency Analysis** | Map external dependencies and risks |
+| 🔹 **External Calls Analysis** | Map and analyze all external interactions |
+| 🔹 **ERC Compliance Checker** | Verify token standard implementations |
+| 🔹 **Semgrep Security Analysis** | Advanced static analysis with custom rules |
+| 🔹 **Surya Visualization Suite** | Generate graphs and visual contract analysis |
+| 🔹 **Solhint Code Quality** | Automated code quality and style checks |
+| 🔹 **JSON Processing Tools** | Advanced JSON parsing and analysis |
+| 🔹 **DateTime Utilities** | Timestamp and date manipulation tools |
+| 🔹 **Memory Store** | Persistent data storage across sessions |
+| 🔹 **Available Tools Discovery** | Explore all available Chonky capabilities |
+| 🔹 **Workspace File Search** | Intelligent file discovery and search |
+| 🔹 **Chat Code Decorator** | AI-powered interactive code annotation through chat |
+| 🔹 **Diagnostic View Manager** | Read and create VS Code diagnostics with code snippet validation |
 
-### ⚡ Early Access Features (15 tools)
+### ⚡ Early Access Features (12 tools)
 *Available earlier to sponsors*
 
 > 💡 **Support development to get early access** - [Become a Sponsor](https://github.com/sponsors/tintinweb)
 
 | Feature | Description |
 |---------|-------------|
-| ⚡ **Custom Chat Modes** | Specialized chat modes for auditing workflows and scoping |
-| ⚡ **Semgrep Security Analysis** | Advanced static analysis with custom rules |
-| ⚡ **Solidity REPL (Chisel)** | Interactive Solidity execution environment |
-| ⚡ **Reentrancy Detection** | Comprehensive reentrancy vulnerability analysis |
-| ⚡ **Oracle Risk Analysis** | Identify oracle manipulation vulnerabilities |
-| ⚡ **ERC Compliance Checker** | Verify token standard implementations |
-| ⚡ **External Calls Analysis** | Map and analyze all external interactions |
-| ⚡ **Event Pattern Analysis** | Verify event emission completeness |
-| ⚡ **Function Similarity Detector** | AI-powered function pattern matching |
-| ⚡ **Inconsistency Reporter** | Find security pattern discrepancies |
-| ⚡ **Differential Analysis Orchestrator** | Comprehensive security pattern comparison |
-| ⚡ **Smart Contract Invariants** | Verify contract invariant properties |
-| ⚡ **Function Analysis Engine** | Deep function behavior and pattern analysis |
-| ⚡ **Contract Call Graph Generator** | Advanced interaction flow visualization |
-| ⚡ **Function Path Tracer** | Execution path analysis with wildcard selectors |
+| 🔸 **Custom Chat Modes** | Specialized chat modes for auditing workflows and scoping |
+| 🔸 **Solidity REPL (Chisel)** | Interactive Solidity execution environment |
+| 🔸 **Reentrancy Detection** | Comprehensive reentrancy vulnerability analysis |
+| 🔸 **Oracle Risk Analysis** | Identify oracle manipulation vulnerabilities |
+| 🔸 **Event Pattern Analysis** | Verify event emission completeness |
+| 🔸 **Function Similarity Detector** | AI-powered function pattern matching |
+| 🔸 **Inconsistency Reporter** | Find security pattern discrepancies |
+| 🔸 **Differential Analysis Orchestrator** | Comprehensive security pattern comparison |
+| 🔸 **Smart Contract Invariants** | Verify contract invariant properties |
+| 🔸 **Function Analysis Engine** | Deep function behavior and pattern analysis |
+| 🔸 **Contract Call Graph Generator** | Advanced interaction flow visualization |
+| 🔸 **Function Path Tracer** | Execution path analysis with wildcard selectors |
 
-### 👑 Professional Features (12 tools)
+### ⚡ Professional Features (12 tools)
 *For security teams and researchers*
 
 > 🚀 **Professional tools for advanced security research** - [Upgrade to Professional](https://github.com/sponsors/tintinweb)
 
 | Feature | Description |
 |---------|-------------|
-| 👑 **Security Primer Discovery** | Discover and search security analysis primers |
-| 👑 **Security Primer Loading** | Load comprehensive security primers for AI analysis |
-| 👑 **Workflow Repository Access** | Access pre-built security analysis workflows |
-| 👑 **Tool Repository Access** | Access security tool configurations and templates |
-| 👑 **Vulnerability Database Search** | Query Solodit for known vulnerabilities |
-| 👑 **Diligence Vulnerability Database** | Access ConsenSys Diligence research database |
-| 👑 **Go Codebase Scoping** | Security analysis for Go blockchain projects |
-| 👑 **Rust Codebase Scoping** | Security analysis for Rust blockchain projects |
-| 👑 **MetaMask Snap Analysis** | Comprehensive MetaMask Snap security review |
-| 👑 **Etherscan Integration** | On-chain contract verification and analysis |
-| 👑 **Sourcify Integration** | Source code verification and metadata analysis |
-| 👑 **Public Codebase Search** | Search GitHub for similar contract patterns |
+| ⚡ **Security Primer Discovery** | Discover and search security analysis primers |
+| ⚡ **Security Primer Loading** | Load comprehensive security primers for AI analysis |
+| ⚡ **Workflow Repository Access** | Access pre-built security analysis workflows |
+| ⚡ **Tool Repository Access** | Access security tool configurations and templates |
+| ⚡ **Vulnerability Database Search** | Query Solodit for known vulnerabilities |
+| ⚡ **Diligence Vulnerability Database** | Access ConsenSys Diligence research database |
+| ⚡ **Go Codebase Scoping** | Security analysis for Go blockchain projects |
+| ⚡ **Rust Codebase Scoping** | Security analysis for Rust blockchain projects |
+| ⚡ **MetaMask Snap Analysis** | Comprehensive MetaMask Snap security review |
+| ⚡ **Etherscan Integration** | On-chain contract verification and analysis |
+| ⚡ **Sourcify Integration** | Source code verification and metadata analysis |
+| ⚡ **Public Codebase Search** | Search GitHub for similar contract patterns |
 
 ---
 
@@ -276,9 +277,9 @@ Chonky is developed and maintained by passionate security researchers. Your supp
 [![Sponsor](https://img.shields.io/badge/♥️-Sponsor-red?style=for-the-badge&logo=github)](https://github.com/sponsors/tintinweb)
 
 ### Sponsorship Tiers
-- **🆓 Base**: Core features for everyone
-- **⚡ Early Access (see [Sponsor page](https://github.com/sponsors/tintinweb))**: Early access to new features
-- **👑 Professional (contact me)**: Advanced research tools
+- **🔹 Base**: Core features for everyone
+- **🔸 Early Access (see [Sponsor page](https://github.com/sponsors/tintinweb))**: Early access to new features
+- **⚡ Professional (contact me)**: Advanced research tools
 
 ---
 
