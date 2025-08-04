@@ -4,6 +4,9 @@ All notable changes to the "chonky" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## v0.6.3
+- Updated Readme
+
 ## v0.6.2
 - Moved chonky-semgrep, chonky-solidity-external-calls, and chonky-solidity-erc-compliance to BASE availability
 - Added chonky-chat-decorator: AI-powered interactive code decoration through chat
