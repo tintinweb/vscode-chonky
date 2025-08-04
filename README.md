@@ -1,5 +1,7 @@
 # 🍣 Chonky - A Superhuman LLM Auditing Agent for Solidity
 
+Chonky is a VS Code extension that transforms GitHub Copilot into a specialized smart contract security auditing agent.
+
 <div align="center">
 
 ![Chonky Logo](https://github.com/tintinweb/vscode-chonky/raw/main/img/superchonky.png)
