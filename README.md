@@ -35,8 +35,19 @@ Chonky is a VS Code extension that transforms GitHub Copilot into a specialized 
 
 <!-- <a href="https://marketplace.visualstudio.com/items?itemName=tintinweb.chonky"><img src="https://github.com/tintinweb/vscode-chonky/raw/main/media/chonky-splash-still.png" height=350px /></a> -->
 
+
+<img height="350" alt="image" src="https://github.com/tintinweb/vscode-chonky/raw/main/media/copilot-view.png" />
+
+### 💬 Use Chonky's Tools in Copilots Agentic Mode
+Open Copilot Chat → switch to `Agent` mode → Ask the agent
+
+```typescript
+// list availabler tools
+List chonky available llm tools
+```
+
 ### 💬 Chat with Chonky
-Use the **@chonky** chat participant for AI-assisted auditing
+Use `Agent` mode for day-to-day use. The agent will decide when to invoke any of Chonky's tools. Use the **@chonky** chat participant for specialized operations. 
 
 <a href="https://github.com/tintinweb/vscode-chonky/raw/main/media/chonky-chat-persona.gif"><img src="https://github.com/tintinweb/vscode-chonky/raw/main/media/chonky-chat-persona.gif" height=350px /></a>
 
