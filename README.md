@@ -8,7 +8,7 @@ Chonky is a VS Code extension that transforms GitHub Copilot into a specialized 
 
 **Your AI-Powered Smart Contract Auditing Assistant**
 
-[![Version](https://img.shields.io/badge/version-0.6.2-blue.svg)](https://github.com/tintinweb/vscode-chonky)
+[![Version](https://img.shields.io/badge/version-0.6.5-blue.svg)](https://github.com/tintinweb/vscode-chonky)
 [![License](https://img.shields.io/badge/license-Proprietary-orange.svg)](LICENSE)
 
 [![Sponsor](https://img.shields.io/badge/♥️-Sponsor-red?style=for-the-badge&logo=github)](https://github.com/sponsors/tintinweb)
@@ -99,6 +99,17 @@ Get access to our curated list of Solidity security primers to augment and autom
 
 ---
 
+## 🆕 What's New in v0.6.5
+
+### ✨ Highlights
+- 🎨 **Enhanced Visual Code Annotation System**
+- 🎯 **Accurate Line Targeting with Code Validation**
+- 🛡️ **Advanced Security-Focused Decorations**
+- ✨ **Custom Styling with Full Validation**
+
+
+---
+
 ## 🆕 What's New in v0.6.0
 
 ### ✨ Highlights
@@ -152,7 +163,7 @@ Get access to our curated list of Solidity security primers to augment and autom
 | 🔹 **Memory Store** | Persistent data storage across sessions |
 | 🔹 **Available Tools Discovery** | Explore all available Chonky capabilities |
 | 🔹 **Workspace File Search** | Intelligent file discovery and search |
-| 🔹 **Chat Code Decorator** | AI-powered interactive code annotation through chat |
+| 🔹 **Editor Decorator Tool** | Advanced visual code annotation with accurate line targeting and custom styling |
 | 🔹 **Diagnostic View Manager** | Read and create VS Code diagnostics with code snippet validation |
 
 ### ⚡ Early Access Features (12 tools)

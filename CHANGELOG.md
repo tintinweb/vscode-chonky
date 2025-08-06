@@ -4,6 +4,14 @@ All notable changes to the "chonky" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## v0.6.5
+- Enhanced chonky-editor-decorator: Implemented comprehensive visual code annotation system
+- Improved editor decorator tool schema with required codeSnippet parameter
+
+## v0.6.4
+- Comprehensive GitHub Wiki
+- Updated primer search logic for better discoverability in small collections
+
 ## v0.6.3
 - Updated Readme
 
