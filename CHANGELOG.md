@@ -4,6 +4,12 @@ All notable changes to the "chonky" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## v0.6.6
+- Workspace integration: Auto-discovery of .chonky folders in workspace for project-specific security resources
+- Enhanced primer/workflow discovery: Repository filtering with repositoryId parameter (workspace:name support)
+- Pattern-based resource discovery: Flexible file extension matching (*.primer.md, *.workflow.md, tools/*.yml)
+- Improved discovery output: Repository information display for better filtering and context
+
 ## v0.6.5
 - Enhanced chonky-editor-decorator: Implemented comprehensive visual code annotation system
 - Improved editor decorator tool schema with required codeSnippet parameter

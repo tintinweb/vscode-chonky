@@ -8,7 +8,7 @@ Chonky is a VS Code extension that transforms GitHub Copilot into a specialized 
 
 **Your AI-Powered Smart Contract Auditing Assistant**
 
-[![Version](https://img.shields.io/badge/version-0.6.5-blue.svg)](https://github.com/tintinweb/vscode-chonky)
+[![Version](https://img.shields.io/badge/version-0.6.6-blue.svg)](https://github.com/tintinweb/vscode-chonky)
 [![License](https://img.shields.io/badge/license-Proprietary-orange.svg)](LICENSE)
 
 [![Sponsor](https://img.shields.io/badge/♥️-Sponsor-red?style=for-the-badge&logo=github)](https://github.com/sponsors/tintinweb)
@@ -99,6 +99,27 @@ Get access to our curated list of Solidity security primers to augment and autom
 
 ---
 
+## 🆕 What's New in v0.6.6
+
+### ✨ Highlights
+- 📁 **Auto-Discovery of .chonky Workspace Folders**
+- 🎯 **Repository Filtering with repositoryId**
+- 🔍 **Pattern-Based Resource Discovery**
+- 📊 **Enhanced Discovery Output**
+
+### 🌟 New Features
+- ▸ Automatic workspace .chonky folder detection for project-specific security resources
+- ▸ Repository filtering for targeted primer/workflow discovery
+- ▸ Flexible file extension matching (*.primer.md, *.workflow.md, tools/*.yml)
+- ▸ Repository information display in discovery results
+
+### 🚀 Improvements
+- ▸ Better project-specific security resource management
+- ▸ Enhanced filtering capabilities for large repositories
+- ▸ More intuitive workspace-based resource organization
+
+---
+
 ## 🆕 What's New in v0.6.5
 
 ### ✨ Highlights
@@ -139,7 +160,7 @@ Get access to our curated list of Solidity security primers to augment and autom
 
 ## 🛠️ Feature Catalog
 
-### 🆓 Base Features (20 tools)
+### 🆓 Base Features (21 tools)
 *Available to everyone*
 
 | Feature | Description |
@@ -163,6 +184,7 @@ Get access to our curated list of Solidity security primers to augment and autom
 | 🔹 **Memory Store** | Persistent data storage across sessions |
 | 🔹 **Available Tools Discovery** | Explore all available Chonky capabilities |
 | 🔹 **Workspace File Search** | Intelligent file discovery and search |
+| 🔹 **Workspace Integration** | Auto-discovery of .chonky folders with pattern-based resource matching |
 | 🔹 **Editor Decorator Tool** | Advanced visual code annotation with accurate line targeting and custom styling |
 | 🔹 **Diagnostic View Manager** | Read and create VS Code diagnostics with code snippet validation |
 
