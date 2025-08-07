@@ -8,7 +8,7 @@ Chonky is a VS Code extension that transforms GitHub Copilot into a specialized 
 
 **Your AI-Powered Smart Contract Auditing Assistant**
 
-[![Version](https://img.shields.io/badge/version-0.6.6-blue.svg)](https://github.com/tintinweb/vscode-chonky)
+[![Version](https://img.shields.io/badge/version-0.6.5-blue.svg)](https://github.com/tintinweb/vscode-chonky)
 [![License](https://img.shields.io/badge/license-Proprietary-orange.svg)](LICENSE)
 
 [![Sponsor](https://img.shields.io/badge/♥️-Sponsor-red?style=for-the-badge&logo=github)](https://github.com/sponsors/tintinweb)
