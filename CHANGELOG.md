@@ -4,6 +4,10 @@ All notable changes to the "chonky" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## v0.6.6
+- Fixed .chonky directory discovery for files in root (.chonky/xxx.workflow.md)
+- Simplified validation logic to support flexible file placement patterns
+
 ## v0.6.5
 - Simplified workspace filtering: Use repositoryId:"workspace" to filter primers/workflows to workspace .chonky directories only
 - Updated tool descriptions: Clear guidance for workspace vs external repository filtering

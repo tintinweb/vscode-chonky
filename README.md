@@ -8,7 +8,7 @@ Chonky is a VS Code extension that transforms GitHub Copilot into a specialized 
 
 **Your AI-Powered Smart Contract Auditing Assistant**
 
-[![Version](https://img.shields.io/badge/version-0.6.5-blue.svg)](https://github.com/tintinweb/vscode-chonky)
+[![Version](https://img.shields.io/badge/version-0.6.6-blue.svg)](https://github.com/tintinweb/vscode-chonky)
 [![License](https://img.shields.io/badge/license-Proprietary-orange.svg)](LICENSE)
 
 [![Sponsor](https://img.shields.io/badge/♥️-Sponsor-red?style=for-the-badge&logo=github)](https://github.com/sponsors/tintinweb)
@@ -96,6 +96,19 @@ Get access to our curated list of Solidity security primers to augment and autom
 ```
 **@chonky** ...
 ```
+
+---
+
+## 🆕 What's New in v0.6.6
+
+### ✨ Highlights
+- 🔧 **Improved .chonky Directory Discovery**
+- 📁 **Flexible File Placement Support**
+
+### 🚀 Improvements
+- ▸ Fixed discovery of files in .chonky root directory (e.g., .chonky/xxx.workflow.md)
+- ▸ Simplified validation logic for better file placement flexibility
+- ▸ Enhanced workspace resource detection
 
 ---
 
