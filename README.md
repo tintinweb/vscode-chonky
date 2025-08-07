@@ -99,7 +99,7 @@ Get access to our curated list of Solidity security primers to augment and autom
 
 ---
 
-## 🆕 What's New in v0.6.6
+## 🆕 What's New in v0.6.5
 
 ### ✨ Highlights
 - 📁 **Auto-Discovery of .chonky Workspace Folders**
